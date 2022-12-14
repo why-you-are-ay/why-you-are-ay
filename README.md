@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=614map)](https://solved.ac/백준아이디/)
+<!---[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=614map)](https://solved.ac/백준아이디/)--->
 
 <!---
 why-you-are-ay/why-you-are-ay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
